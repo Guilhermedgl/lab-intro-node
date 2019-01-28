@@ -27,7 +27,7 @@ class SortedList {
     if (this.items.length === 0) {
       throw new Error('EmptySortedList');
     }
-    return this.items[0]
+    return this.items[0];
   }
 
   average() {
