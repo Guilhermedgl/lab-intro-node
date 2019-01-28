@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 class SortedList {
   constructor(items, length) {
     this.items = [];
